@@ -4,7 +4,7 @@
 // ***
 // ****
 
-class Tut1 {
+class tut1 {
     public static void main (String[] args)
     {
         // output in java
